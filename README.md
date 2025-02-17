@@ -19,6 +19,6 @@
 <img src="https://komarev.com/ghpvc/?username=Phant0mh1ve&style=for-the-badge&color=10c69b" alt="Views"/>
   <h2>
   hi, darlings!
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V4NnJmeGE3ajEwY3UycGg1a2NnNjl2eHlvMHNzZTFqNmk2eXFiayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WoRPSBn8dGpfH1qPxg/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/StFfeDZYMlHqar4mAf/giphy.gif?cid=ecf05e47dgdwxscyzbut0g5ew5dlxxwcto4w1y2zojcr5ftr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30px"/>
 </h2>
 </div>
