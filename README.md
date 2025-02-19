@@ -31,8 +31,8 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/RkL1rgBPCLMCPseFiI/giphy.gif?cid=ecf05e4798lqrloq4fw0iq7rafah914jnloo926r38ep8ozq&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> About Me :
-I'm just a chill programmer with big ambitions! <img src="https://media.giphy.com/media/Gyqi1LOwFnwgKOkg4H/giphy.gif?cid=ecf05e47bx7r23qpwdxvmgm0gy8qiws8j9wuinm9erpyvejj&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">
+### <img src="https://media.giphy.com/media/Q8sgRbG1SgPBTt5zs0/giphy.gif?cid=790b76115ouaw78ni1sunivzm6fg0hularvgchdu9eorcwbm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> About Me :
+I'm just a chill programmer with big ambitions! <img src="https://media.giphy.com/media/kxYXrizluL4KMQDzSh/giphy.gif?cid=790b7611iv8jq0lpc485zzqock92myz08mph97xw0sn4t2ke&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">
 - <img src="https://media.giphy.com/media/W28oaOiNtreBA93cGV/giphy.gif?cid=ecf05e47zf9jixsehencx326p9aey7cdee1k1ymdbf9h14oo&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">: I'm studying at a university in the field of programming and AI.
   
 - <img src="https://media.giphy.com/media/9NDxo04budFf554AWO/giphy.gif?cid=ecf05e47towhaf9k0xd2k3mpen1kuibwhlqnwsrekaj74odq&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30">: Exploring Technical Content Writing.
@@ -54,7 +54,6 @@ I'm just a chill programmer with big ambitions! <img src="https://media.giphy.co
 
 ---
 
-### <img src="https://media.giphy.com/media/X6igXqclj9f8Tf5XXG/giphy.gif?cid=ecf05e47ayocx1fho71bzydlan5nwbqx7wjaftdfq8eorasm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Phant0mh1ve&theme=blue-navy&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+### <img src="https://media.giphy.com/media/7IyEdpidd6g2zoh2sA/giphy.gif?cid=790b7611q7x2n665kdb1ole8npawx74tsg6vhmgtvxzvd27i&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"> My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phant0mh1ve&layout=compact&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
